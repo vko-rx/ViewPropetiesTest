@@ -5,5 +5,9 @@
     <string name="btn_3">버튼 3</string>
     <string name="btn_4">버튼 4</string>
     <string name="btn_5">버튼 5</string>
-
+    <string name="text_1">textSize 속성</string>
+    <string name="text_2">textColor 속성</string>
+    <string name="text_3">textStyle 속성</string>
+    <string name="text_4">typeface 속성</string>
+    <string name="text_5">Single 속성 Single 속성 Single 속성 Single 속성 Single 속성</string>
 </resources>

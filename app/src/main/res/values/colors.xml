@@ -10,5 +10,6 @@
     <color name="green">#CDDC39</color>
     <color name="pink">#FFC8C8</color>
     <color name="blue">#2196F3</color>
+    <color name="text_color">#00FF0A</color>
 
 </resources>
